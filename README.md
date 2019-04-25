@@ -4,7 +4,7 @@ This is an adaptation of the open-source robot stereotaxic instrument originally
 
 By using stepper motors and 3D printed couplers, we can upgrade an existing stereotaxic instrument to a highly precise robot instrument for approximately $350.
 
-This repository contains the coupler and [assembly instructions](Kopf Ultra Precise 962/Constructing the Robot.md) to convert a Kopf Ultra Precise 962.
+This repository contains the coupler and [assembly instructions](Kopf%20Ultra%20Precise%20962/Constructing%20the%20Robot.md) to convert a Kopf Ultra Precise 962.
 
 The robot is controlled by g-code sent to a CNC controller through Mach3.  
 [Mach 3 setup instructions](Mach3 Setup.md)
