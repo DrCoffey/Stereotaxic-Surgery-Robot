@@ -9,6 +9,7 @@
 | Set Screws                            | 6        | https://www.mcmaster.com/91375A106                                       |
 | M3 Socket Head Screws                 | 12       | https://www.mcmaster.com/91290a123                                       |
 | 3D Printed Coupler                    | 3        | https://www.shapeways.com/ (Material: Versitile Plastic, Color: Purple)  |
+| TB6600HG driver                       | 1        | Ebay (Sellers Always Changing)                                           |
 
 ## Assembly
 
